@@ -23,3 +23,4 @@ Tujuan pemerograman:
 5. print(...): Baris ini menampilkan hasilnya sesuai format yang diminta di contoh keluaran pada gambar.
 ```
 ## Otput
+<img width="1920" height="383" alt="hasil output 1" src="https://github.com/user-attachments/assets/49d8114b-ae20-4bc0-8e2d-6974f374e516" />
